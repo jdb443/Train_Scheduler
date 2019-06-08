@@ -12,4 +12,3 @@ Input NYC trains. Enjoy.
 
 ### Screenshot! <br />
 <img src="assets/images/Train_Screenshot.png">
-

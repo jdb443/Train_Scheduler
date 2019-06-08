@@ -7,7 +7,9 @@ Homework 7 Train Scheduler Activity
 ## Functionality Breakdown / Objective
 Create a train schedule application that incorporates Firebase to host arrival and departure data. App will retrieve and manipulate this information with Moment.js. This website will provide up-to-date (simulated) information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
 
+## Description
+Input NYC trains. Enjoy.
 
 ### Screenshot! <br />
-<img src="#">
+<img src="assets/images/Train_Screenshot.png">
 
